@@ -1,5 +1,9 @@
 # front-task
 
+## Video link
+
+https://drive.google.com/file/d/1QnW9_-IxrmuVh7FYP09vxPbG-MwrhH88/view?usp=sharing
+
 ## Project setup
 ```
 npm install
